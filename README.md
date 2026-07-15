@@ -1,11 +1,11 @@
 # Rising Waters – AI Flood Prediction System
 
 ## Team Members
--Mukesh C A
--Kanchi Chaithanya
--N Mahesh
--L Harish
--Divya Sree Hemadri
+ -Mukesh C A
+ -Kanchi Chaithanya
+ -N Mahesh
+ -L Harish
+ -Divya Sree Hemadri
 
 ## Abstract
 This project predicts flood risk using Machine Learning based on environmental and geographical parameters.
